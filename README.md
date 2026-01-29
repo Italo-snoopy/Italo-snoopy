@@ -109,7 +109,7 @@
 
 <!--Contatos-->
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-silva-dos-santos-2774843a9/)
   [![GitHub](https://img.shields.io/badge/GitHub-1E3AFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Italo-snoopy)
   [![Gmail](https://img.shields.io/badge/Gmail-1E3AFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italosilvasilveira653@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-1E3AFF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/italoksksjk)
